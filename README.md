@@ -3,6 +3,8 @@ List of ressources, documents and tutorials I have or need to go through
 
 ## Table Of Contents 
 - [Game Dev & Programming](#game-dev)
+  - [GameDev.Net](#gamedevnet)
+  - [GDC Conference](#gdc-conference)
 
 ## Game Dev
 
