@@ -5,7 +5,7 @@ List of ressources, documents and tutorials I have or need to go through
 - [Game Dev & Programming](#game-dev--programming)
   - [GameDev.Net](#gamedevnet)
   - [Gamasutra](#gamasutra)
-  - [GDC Conference](#gdc-conference)
+  - [GDC Conference and Other Youtube's video](#gdc-conference-and-other-youtube-s-video)
   - [Unity Blog](#unity-blog)
   - [Other](#other)
 - [Ressources](#ressources)
@@ -29,11 +29,20 @@ List of ressources, documents and tutorials I have or need to go through
 - [How to train players right, so they don't hate learning to play](https://www.gamasutra.com/view/news/253028/How_to_train_players_right_so_they_dont_hate_learning_to_play.php)
 - [Methods of creating invisible tutorials](https://www.gamasutra.com/blogs/AlexPine/20190910/350376/Methods_of_creating_invisible_tutorials.php)
 - [How to grow as a designer: What to read, where to get ideas, and knowing thyself](https://www.gamasutra.com/view/news/350811/How_to_grow_as_a_designer_What_to_read_where_to_get_ideas_and_knowing_thyself.php)
+- [Towards a Language of Video Games, Part I: Creating Meaning with Game Mechanics](https://www.gamasutra.com/blogs/ElizabethGoins/20190930/351322/Towards_a_Language_of_Video_Games_Part_I_Creating_Meaning_with_Game_Mechanics.php)
+- [Engaging Level Design for Combat - Pt 2](https://www.gamasutra.com/blogs/MaxPears/20191003/351528/Engaging_Level_Design_for_Combat__Pt_2.php)
+- [Nonlinear Story Structure in Games](https://www.gamasutra.com/blogs/NathanSavant/20190111/334168/Nonlinear_Story_Structure_in_Games.php)
+- [Region-Based Narrative](https://www.gamasutra.com/blogs/NathanSavant/20191011/352030/RegionBased_Narrative.php)
+- [GemuKai: 4 steps to make a successful indie game](https://www.gamasutra.com/blogs/FarzamMolkara/20191107/353554/GemuKai_4_steps_to_make_a_successful_indie_game.php)
 
-### GDC Conference
+### GDC Conference and Other Youtube's video
 
 - [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
 - [A Survival Guide for Game Developers](https://www.youtube.com/watch?v=UaRnAXozc58)
+- [Zach Barth: "Zachtronics: Ten Years of Terrible Games" | Talks at Google](https://www.youtube.com/watch?v=Df9pz_EmKhA)
+- [Math for Game Programmers: Solving Nintendo's CodinGame Challenge](https://www.youtube.com/watch?v=x_BUnm-bnik)
+- [How Jonathan Blow Designs a Puzzle | Game Maker's Toolkit](https://www.youtube.com/watch?v=2zK8ItePe3Y)
+- [Best Practices for fast game design in Unity - Unite LA](https://www.youtube.com/embed/NU29QKag8a0)
 
 ### Unity Blog
 
@@ -55,6 +64,14 @@ List of ressources, documents and tutorials I have or need to go through
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 - [How a basement hacker transformed Donkey Kong for the Atari 2600](https://arstechnica.com/gaming/2019/09/how-a-basement-hacker-transformed-donkey-kong-for-the-atari-2600/)
 - [Josh Sawyer - I thought I could organize freedom. How Scandinavian of me.](https://rpgcodex.net/content.php?id=24)
+- [Diablo Concept Document](http://www.graybeardgames.com/download/diablo_pitch.pdf)
+- [When “easy mode” isn’t enough: An analysis of unclear lessons in video games](https://arstechnica.com/gaming/2019/10/when-easy-mode-isnt-enough-an-analysis-of-unclear-lessons-in-video-games/)
+- [Writing Campfire Narratives](https://www.thepunkwriter.com/article/writing-campfire-narratives)
+- [Explaining how fighting games use delay-based and rollback netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/)
+- [GGPO Document](https://drive.google.com/file/d/1nRa3cRBQmKj0-SEyrT_1VNOkPOJWNhVI/view)
+- [The truth about Japan: a postcard from the Japanese games industry](https://www.eurogamer.net/articles/2012-10-10-tokyo-story-a-postcard-from-the-japanese-games-industry)
+- [How To Make A Great Puzzle Game](https://thepuzzle.press/how-to-make-a-great-puzzle-game/)
+- [How to Make a Great Puzzle Game - Hacker News Comments Section](https://news.ycombinator.com/item?id=21318475)
 
 ## Ressources
 
@@ -62,3 +79,5 @@ List of ressources, documents and tutorials I have or need to go through
   - _VFW is an editor extension that offers much more advance editor extensibility features than what comes out of the box with Unity._
 - [DOTS Unity Sample](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 - [ProjectDMG - GameBoy Emulator](https://github.com/BluestormDNA/ProjectDMG)
+- [Epic Survival Game Series](https://github.com/tomlooman/EpicSurvivalGameSeries)
+- [__Asset__ Forge](https://assetforge.io/)
