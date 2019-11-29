@@ -5,7 +5,7 @@ List of ressources, documents and tutorials I have or need to go through
 - [Game Dev & Programming](#game-dev--programming)
   - [GameDev.Net](#gamedevnet)
   - [Gamasutra](#gamasutra)
-  - [GDC Conference and Other Youtube's video](#gdc-conference-and-other-youtube-s-video)
+  - [GDC Conference and Other Youtube's video](#gdc-conference-and-other-youtubes-video)
   - [Unity Blog](#unity-blog)
   - [Other](#other)
 - [Ressources](#ressources)
